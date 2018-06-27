@@ -1,0 +1,23 @@
+{
+    "AS_Form_jdbbe16d8553435bb837c71da25067a3": {
+        "id": "AS_Form_jdbbe16d8553435bb837c71da25067a3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": null,
+            "KUID": "dd5bd84524574cc89f0f3d6393946f65"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_postShow_fb434a68e7d34eac9edefe462ce1b175",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "touchID.authUsingTouchID();",
+            "callbackType": null
+        }]
+    }
+}

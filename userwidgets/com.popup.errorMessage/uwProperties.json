@@ -1,0 +1,90 @@
+{
+    "classname": "errorMessage",
+    "definitions": {
+        "apis": {
+            "custom": [],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [],
+            "passthrough": [
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "e4d2f233c1ac41778efa61123c824cb7",
+                    "originalPropertyKey": "onClick",
+                    "propertyIndex": 1,
+                    "propertyKey": "onClick",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "action",
+                        "displayName": "onClick",
+                        "srcWidget": "btnOK",
+                        "type": "action",
+                        "uiRepresentation": "Label-Label-Button-Button",
+                        "wType": "Button"
+                    },
+                    "srcWgtKUID": "dba45a43b1894af395640aebfe1cd845"
+                }
+            ]
+        },
+        "groups": {
+            "apis": [
+                "General"
+            ],
+            "events": [],
+            "properties": [],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [],
+            "passthrough": [
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "b04c4415089e4313b9c63cd96dcada06",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 1,
+                    "propertyKey": "lblMessageText",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "lblMessage",
+                        "srcWidget": "lblMessage",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "f08e1717094b44ca824d4ba448b35ca5"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "db114abbb84d4d0aa09ab356724a1815",
+                    "originalPropertyKey": "isVisible",
+                    "propertyIndex": 2,
+                    "propertyKey": "isVisible1",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "isVisible1",
+                        "srcWidget": "btnOK",
+                        "toolTip": "Hides/shows the widget in the screen",
+                        "type": "boolean",
+                        "uiRepresentation": "Label-Radiobuttongroup",
+                        "wType": "Button"
+                    },
+                    "srcWgtKUID": "dba45a43b1894af395640aebfe1cd845"
+                }
+            ]
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "com.popup",
+    "version": "1.0.0"
+}

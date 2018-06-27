@@ -1,0 +1,106 @@
+{
+    "AS_DataGrid_e48c43af9f164dd88286571c36536528": {
+        "id": "AS_DataGrid_e48c43af9f164dd88286571c36536528",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ga490a5a02f3473582bc7f54c13040b7"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ROTATE_ACTION_3D____eaa234b989764b00a4e96648f0fbedf7",
+            "type": "ROTATE_ACTION_3D",
+            "itemType": "FORM",
+            "itemId": "frmHome",
+            "itemKUID": "ga490a5a02f3473582bc7f54c13040b7",
+            "widgetKUID": "b35e29c1d95a47f59d906599d5d49098",
+            "wType": "DataGrid",
+            "animationObject": {
+                "anchorPoint": {
+                    "x": "50",
+                    "y": "50"
+                },
+                "stepConfig": {
+                    "timingFunction": "kony.anim.EASE"
+                },
+                "rotate3d": "90",
+                "rotateX": "1",
+                "rotateY": "1",
+                "rotateZ": "1"
+            },
+            "config": {
+                "delay": "0",
+                "iterationCount": 1,
+                "fillMode": "kony.anim.FILL_MODE_FORWARDS",
+                "duration": "250"
+            },
+            "start": "Immediately",
+            "parentAnimation": "STYLE_ACTION____dddba32893614bf3a2e845b432901121",
+            "animationId": "ROTATE_ACTION_3D____eaa234b989764b00a4e96648f0fbedf7",
+            "displayAnimationId": "ROTATE_ACTION_3D____eaa234b989764b00a4e96648f0fbedf7",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null
+        }, {
+            "id": "TRANSFORM_ACTION_NEW____d763e56c7d0d4481a6469ff6a2e220c2",
+            "type": "TRANSFORM_ACTION_NEW",
+            "itemType": "FORM",
+            "itemId": "frmHome",
+            "itemKUID": "ga490a5a02f3473582bc7f54c13040b7",
+            "widgetKUID": "b35e29c1d95a47f59d906599d5d49098",
+            "wType": "DataGrid",
+            "animationObject": {
+                "anchorPoint": {},
+                "stepConfig": {
+                    "timingFunction": "kony.anim.EASE"
+                }
+            },
+            "config": {
+                "delay": "0",
+                "iterationCount": 1,
+                "fillMode": "kony.anim.FILL_MODE_FORWARDS",
+                "duration": "250"
+            },
+            "start": "Immediately",
+            "parentAnimation": "ROTATE_ACTION_3D____eaa234b989764b00a4e96648f0fbedf7",
+            "animationId": "TRANSFORM_ACTION_NEW____d763e56c7d0d4481a6469ff6a2e220c2",
+            "displayAnimationId": "TRANSFORM_ACTION_NEW____d763e56c7d0d4481a6469ff6a2e220c2",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null
+        }, {
+            "id": "TRANSFORM_ACTION____df5e26a727bd40e09d990e3f27da6648",
+            "type": "TRANSFORM_ACTION",
+            "itemType": "FORM",
+            "itemId": "frmHome",
+            "itemKUID": "ga490a5a02f3473582bc7f54c13040b7",
+            "widgetKUID": "b35e29c1d95a47f59d906599d5d49098",
+            "wType": "DataGrid",
+            "animationObject": {
+                "anchorPoint": {},
+                "stepConfig": {
+                    "timingFunction": "kony.anim.EASE"
+                }
+            },
+            "config": {
+                "delay": "0",
+                "iterationCount": 1,
+                "fillMode": "kony.anim.FILL_MODE_FORWARDS",
+                "duration": "250"
+            },
+            "start": "Immediately",
+            "parentAnimation": "ROTATE_ACTION_3D____eaa234b989764b00a4e96648f0fbedf7",
+            "animationId": "TRANSFORM_ACTION____df5e26a727bd40e09d990e3f27da6648",
+            "displayAnimationId": "TRANSFORM_ACTION____df5e26a727bd40e09d990e3f27da6648",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

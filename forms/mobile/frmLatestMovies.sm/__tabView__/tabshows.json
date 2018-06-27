@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizTab",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sba30955fa91449da842a7549d7ee335",
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "gridTvShows"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "tabshows",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "b85bc2b8d4a34135b096239372f4265b",
+    "layouttype": 2,
+    "margininpixel": false,
+    "name": "kony.ui.Tab",
+    "paddinginpixel": false,
+    "parent": "tabView",
+    "pf": "frmLatestMovies",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "scrolldirection": 1,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "tabname": "TV shows",
+    "tabpaneId": "tabView",
+    "wType": "Tab"
+}

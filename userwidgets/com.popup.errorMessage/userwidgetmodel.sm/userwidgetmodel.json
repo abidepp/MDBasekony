@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "seff4dcce2114588a063eb0f9e6d2b90",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "errorMessage"
+    ],
+    "containerweight": 100,
+    "currentLocale": "default",
+    "device": "iPhoneX",
+    "displayorientation": 3,
+    "enabledforidletimeout": false,
+    "id": "userwidgetmodel",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "intransitionconfig": {
+        "formTransition": "None"
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ud6abcea25a34b14a89d3955bbd6b9d5",
+    "layouttype": 2,
+    "masterType": 1,
+    "name": "kony.ui.Form2",
+    "needappmenu": true,
+    "outtransitionconfig": {
+        "formTransition": "None"
+    },
+    "paddinginpixel": false,
+    "platform": "iphone",
+    "prevDevice": "iPhoneX",
+    "prevPlatform": "iphone",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainscrollposition": false,
+    "shellCSS": "iOS_iPhoneX",
+    "titlebar": true,
+    "type": 3,
+    "wType": "Form"
+}

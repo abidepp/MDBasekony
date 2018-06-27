@@ -1,0 +1,18 @@
+{
+    "AS_DataGrid_g8473a6e2845422ea442e8d799f6e383": {
+        "id": "AS_DataGrid_g8473a6e2845422ea442e8d799f6e383",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ga490a5a02f3473582bc7f54c13040b7"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

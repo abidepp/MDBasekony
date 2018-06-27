@@ -1,0 +1,24 @@
+{
+    "AS_Form_dd460ee88b534c2cb7fad08044527c1c": {
+        "id": "AS_Form_dd460ee88b534c2cb7fad08044527c1c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": "",
+            "KUID": "i07f6aa2b3fd4653a05014f59277ee60"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__d274d0fe842d4fddb0d8c0a1d774b42d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "// Form1.Image0dabec52560754b.src = \"cogs_result\";\n//touchID.authUsingTouchID();\n\n\t",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

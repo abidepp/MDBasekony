@@ -1,0 +1,24 @@
+{
+    "AS_Button_e8c22445c3a74e4d9fb59f922144b49d": {
+        "id": "AS_Button_e8c22445c3a74e4d9fb59f922144b49d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": "",
+            "KUID": "i07f6aa2b3fd4653a05014f59277ee60"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

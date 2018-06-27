@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scb204e962ea40d69fb241044940620b",
+    "_src_": "imagedrag.png",
+    "_top_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "platform": "iphone",
+        "templateType": "segments",
+        "topLevelBox": null
+    },
+    "id": "img",
+    "imagescalemode": 0,
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "b546b47ec1fb46aea0af8380830ede10",
+    "name": "kony.ui.Image2",
+    "parent": "flxtplMain",
+    "pf": "tplMovies",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

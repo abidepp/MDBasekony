@@ -1,0 +1,29 @@
+{
+    "AS_Button_b7f1196f5878412ea0cb9e2a05a99a07": {
+        "id": "AS_Button_b7f1196f5878412ea0cb9e2a05a99a07",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": "",
+            "KUID": "i07f6aa2b3fd4653a05014f59277ee60"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___fa93ee523b684875a0aad4ced4bf5751",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmLatestMovies",
+            "formKUID": "ie771f5884604a6d9a8d1dc8b2835d6e",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
+        }]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "AS_Form_ee4952080a3d4526bef6dbc2efeb659f": {
+        "id": "AS_Form_ee4952080a3d4526bef6dbc2efeb659f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLatestMovies",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ie771f5884604a6d9a8d1dc8b2835d6e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___b53c319ac67343919cd63c913d9cc966",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "populateSegment",
+            "display": "populateSegment",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

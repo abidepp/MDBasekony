@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizTab",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_image_": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sba30955fa91449da842a7549d7ee335",
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "gridMovies"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "tabMovies",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "c11a1c4b6ed24e4aa96e56158907df7e",
+    "layouttype": 2,
+    "margininpixel": false,
+    "name": "kony.ui.Tab",
+    "oninit": null,
+    "paddinginpixel": false,
+    "parent": "tabView",
+    "pf": "frmLatestMovies",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "scrolldirection": 1,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "tabname": "Movies",
+    "tabpaneId": "tabView",
+    "wType": "Tab"
+}

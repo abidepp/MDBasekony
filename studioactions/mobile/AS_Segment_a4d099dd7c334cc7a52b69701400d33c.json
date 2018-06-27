@@ -1,0 +1,52 @@
+{
+    "AS_Segment_a4d099dd7c334cc7a52b69701400d33c": {
+        "id": "AS_Segment_a4d099dd7c334cc7a52b69701400d33c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmLatestMovies",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ie771f5884604a6d9a8d1dc8b2835d6e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "TRANSFORM_ACTION_NEW____d06aac5293d24d72b190e4097499fb94",
+            "type": "TRANSFORM_ACTION_NEW",
+            "itemType": "FORM",
+            "itemId": "frmLatestMovies",
+            "itemKUID": "ie771f5884604a6d9a8d1dc8b2835d6e",
+            "widgetKUID": "g4bc1bc76fff49febd11735a9a032c04",
+            "wType": "Segment",
+            "animationObject": {
+                "anchorPoint": {},
+                "stepConfig": {
+                    "timingFunction": "kony.anim.EASE"
+                },
+                "width": "1dp",
+                "height": "1dp"
+            },
+            "config": {
+                "delay": "0",
+                "iterationCount": 1,
+                "fillMode": "kony.anim.FILL_MODE_FORWARDS",
+                "duration": "250"
+            },
+            "start": "Immediately",
+            "animationId": "TRANSFORM_ACTION_NEW____d06aac5293d24d72b190e4097499fb94",
+            "displayAnimationId": "TRANSFORM_ACTION_NEW____d06aac5293d24d72b190e4097499fb94",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

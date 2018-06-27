@@ -1,0 +1,24 @@
+{
+    "AS_Button_a1f4eabb171e4e3fa4e3131e614f5848": {
+        "id": "AS_Button_a1f4eabb171e4e3fa4e3131e614f5848",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": "",
+            "KUID": "i07f6aa2b3fd4653a05014f59277ee60"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__bca9ea70902348fe9455873343c3a99d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var formData = new kony.mvc.Navigation(\"frmLatestMovies\");\nformData.navigate();\nkony.print(\"navigation to latest movies called\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}
