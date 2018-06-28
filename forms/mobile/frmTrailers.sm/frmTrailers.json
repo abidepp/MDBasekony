@@ -29,12 +29,14 @@
         "needAppMenu": false
     },
     "canUpdateUI": true,
-    "children": [],
+    "children": [
+        "FlexMain"
+    ],
     "containerweight": 100,
     "controllerInfo": {
         "default": {
             "channel": "mobile",
-            "name": "Form2Controller"
+            "name": "frmTrailersController"
         }
     },
     "currentLocale": "default",
@@ -44,8 +46,7 @@
     "device": "iPhoneX",
     "displayorientation": 1,
     "enabledforidletimeout": false,
-    "id": "Form2",
-    "ide_preShow": "AS_Form_a348300bf7e643c4844119c3ab7429f7",
+    "id": "frmTrailers",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
@@ -63,7 +64,7 @@
             "titleBarAttributes": {
                 "barStyle": 0,
                 "hidesBackButton": false,
-                "kuid": "idf46e282b5e409fbe1ba81fd740be42",
+                "kuid": "d2ba3e7273e342c9a6f70c0198c3f157",
                 "leftBarButtonItems": [],
                 "leftItemsSupplementBackButton": true,
                 "prompt": "",
@@ -74,7 +75,7 @@
                         "info": {
                             "title": "Edit"
                         },
-                        "kuid": "c75948724b524d0396f7a6c910d31121",
+                        "kuid": "b9b264baf70d47fc9b76fcb028d853f5",
                         "style": 0,
                         "tintColor": "4b88f100",
                         "type": 1
@@ -91,7 +92,7 @@
     "kiosk": {
         "needAppMenu": false
     },
-    "kuid": "d04815917ee740aca15d12c6219f3005",
+    "kuid": "f6e2b2e980f9435a87fdb9d2f652c7e8",
     "layouttype": 2,
     "name": "kony.ui.Form2",
     "needappmenu": false,

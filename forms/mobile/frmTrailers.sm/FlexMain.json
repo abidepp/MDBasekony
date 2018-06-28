@@ -3,11 +3,11 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "80%"
+        "value": "100%"
     },
     "_left_": {
         "type": "string",
-        "value": "5.04%"
+        "value": "0%"
     },
     "_margin_": [
         0,
@@ -26,40 +26,35 @@
     "_skin_": "s17679cc25fc401a80e5b89b6c1f6a50",
     "_top_": {
         "type": "string",
-        "value": "10.00%"
+        "value": "0%"
     },
     "_width_": {
         "type": "string",
-        "value": "90%"
+        "value": "100%"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "ImageView",
-        "PlayBtn",
-        "RTtitle",
-        "FlexCast",
-        "lblRating",
-        "lblOverview"
+        "Video0a9beae4aa8a047"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "FlexMoviePopup",
+    "id": "FlexMain",
     "info": null,
     "iscustomlayout": false,
-    "isvisible": false,
-    "kuid": "f9d64ec9b87646dd85cb3ceaf83b5c22",
-    "layouttype": 4,
+    "isvisible": true,
+    "kuid": "id9252bc55c84cc3a6bfa7aa070ec609",
+    "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "frmLatestMovies",
-    "pf": "frmLatestMovies",
+    "parent": "frmTrailers",
+    "pf": "frmTrailers",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "snapgridsize": 10,
     "snaptogrid": true,
     "wType": "FlexContainer",
     "widgetalignment": 1,
-    "zindex": 3
+    "zindex": 1
 }

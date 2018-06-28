@@ -44,6 +44,7 @@
         0,
         0
     ],
+    "_render_": true,
     "_top_": {
         "type": "string",
         "value": "0%"
@@ -51,6 +52,9 @@
     "_width_": {
         "type": "string",
         "value": "100%"
+    },
+    "android": {
+        "render": true
     },
     "canUpdateUI": true,
     "cellBorder": "3px solid #F4F4F4",
@@ -125,8 +129,11 @@
     "headerskin": "se338df0c62b4eb4ae4d67c7aec308c0",
     "id": "gridMovies",
     "info": null,
+    "iphone": {
+        "render": true
+    },
     "iscustomlayout": false,
-    "ismultiselect": false,
+    "ismultiselect": true,
     "isvisible": true,
     "kuid": "i9623e85973640cc93475ac0431cb410",
     "name": "kony.ui.DataGrid",
@@ -145,12 +152,25 @@
     "selecteditem": null,
     "selecteditems": null,
     "showcolumnheaders": false,
+    "spaan": {
+        "render": true
+    },
+    "spabb": {
+        "render": true
+    },
+    "spaip": {
+        "render": true
+    },
+    "spawinphone8": {
+        "render": true
+    },
     "tabpaneId": "tabView",
     "wType": "DataGrid",
     "winphone8": {
         "psp": {
             "enableCache": false
-        }
+        },
+        "render": true
     },
     "zindex": 1
 }
