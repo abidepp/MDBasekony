@@ -29,7 +29,9 @@
         "needAppMenu": false
     },
     "canUpdateUI": true,
-    "children": [],
+    "children": [
+        "Label0i8248269537246"
+    ],
     "containerweight": 100,
     "controllerInfo": {
         "default": {

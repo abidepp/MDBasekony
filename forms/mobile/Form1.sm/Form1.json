@@ -31,11 +31,7 @@
     "canUpdateUI": true,
     "children": [
         "FlexContainer",
-        "Image0dabec52560754b",
-        "errorMessage",
-        "btnstatus",
-        "btn",
-        "btnone"
+        "errorMessage"
     ],
     "containerweight": 100,
     "controllerInfo": {
@@ -48,7 +44,7 @@
     "desktopweb": {
         "needAppMenu": false
     },
-    "device": "iPhoneX",
+    "device": "GalaxyS2",
     "displayorientation": 1,
     "enabledforidletimeout": false,
     "id": "Form1",
@@ -103,13 +99,13 @@
     "name": "kony.ui.Form2",
     "needappmenu": false,
     "paddinginpixel": false,
-    "platform": "iphone",
+    "platform": "android",
     "prevDevice": "iPhoneX",
     "prevPlatform": "iphone",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainscrollposition": false,
-    "shellCSS": "iOS_iPhoneX",
+    "shellCSS": "and_GalaxyS2",
     "snapgridsize": 10,
     "snaptogrid": true,
     "spaan": {

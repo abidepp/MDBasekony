@@ -70,14 +70,30 @@ function invokeService(serviceName, operation, headers, inputParams, successCall
 
         //         kony.print("movies service"+JSON.Stringify(result));
         kony.print("----> invokeService success callback"+result);
-        currentController[successCallBack](result);
-        kony.print("----> invokeService success callback called");
+        if(currentController === "")
+        {
+          successCallBack(result);
+        }
+        else
+        {
+          currentController[successCallBack](result);
+          kony.print("----> invokeService success callback called");
+        }
+
 
       }, function(result){
 
         kony.print("----> invokeService failure callback"+JSON.stringify(result));
-        currentController[failureCallBack](result);
-        kony.print("----> invokeService failure callback called");
+        if(currentController === "")
+        {
+          failureCallBack(result);
+        }
+        else
+        {
+          currentController[failureCallBack](result);
+          kony.print("----> invokeService failure callback called");
+        }
+
 
       });
     }

@@ -23,10 +23,10 @@
         0
     ],
     "_skin_": "sb1b186ad50a4a5ea74a7edad6147f3b",
-    "_text_": "sample form",
+    "_text_": "pushMessage",
     "_top_": {
         "type": "string",
-        "value": "247dp"
+        "value": "377dp"
     },
     "_width_": {
         "type": "string",
@@ -37,12 +37,12 @@
     "contentalignment": 5,
     "displaytext": true,
     "focusskin": "sc936d64a2934eb08cb626bea51c9f11",
-    "id": "btnone",
-    "ide_onClick": "AS_Button_c45384d0c10c4bdd8d6271cabcb0fc72",
+    "id": "Buttonpush",
+    "ide_onClick": "AS_Button_bac147c0b70946a1822f496ac470871c",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "e1b4c2a8ed8e4a51859c7cf97967fa4d",
+    "kuid": "i6f8ab0667ae4b03bc3e5c9d40ea7bb9",
     "name": "kony.ui.Button",
     "parent": "FlexContainer",
     "pf": "Form1",

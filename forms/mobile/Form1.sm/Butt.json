@@ -23,10 +23,10 @@
         0
     ],
     "_skin_": "sb1b186ad50a4a5ea74a7edad6147f3b",
-    "_text_": "sample form",
+    "_text_": "Trailer Form",
     "_top_": {
         "type": "string",
-        "value": "247dp"
+        "value": "313dp"
     },
     "_width_": {
         "type": "string",
@@ -37,12 +37,12 @@
     "contentalignment": 5,
     "displaytext": true,
     "focusskin": "sc936d64a2934eb08cb626bea51c9f11",
-    "id": "btnone",
-    "ide_onClick": "AS_Button_c45384d0c10c4bdd8d6271cabcb0fc72",
+    "id": "Butt",
+    "ide_onClick": "AS_Button_dbd55a04edeb45db833051cab3aaf72f",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "e1b4c2a8ed8e4a51859c7cf97967fa4d",
+    "kuid": "j3944f345ab84d94afc47707efdb10b6",
     "name": "kony.ui.Button",
     "parent": "FlexContainer",
     "pf": "Form1",

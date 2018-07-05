@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "55dp"
+        "value": "20dp"
     },
     "_margin_": [
         6,
@@ -26,7 +26,7 @@
     "_text_": "connection status",
     "_top_": {
         "type": "string",
-        "value": "245dp"
+        "value": "20dp"
     },
     "_width_": {
         "type": "string",
@@ -38,13 +38,13 @@
     "displaytext": true,
     "focusskin": "sc936d64a2934eb08cb626bea51c9f11",
     "id": "btnstatus",
-    "ide_onClick": "AS_Button_ae12cf45f32d44e99a32b838a5d1da88",
+    "ide_onClick": "AS_Button_f14d417443a4444eaeace0f7b1af3ccd",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "a1cf9104985a44028cd0a748d57ebbd0",
     "name": "kony.ui.Button",
-    "parent": "Form1",
+    "parent": "FlexContainer",
     "pf": "Form1",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

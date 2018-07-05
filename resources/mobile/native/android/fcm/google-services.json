@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1092680107276",
+    "firebase_url": "https://samplepush-543ad.firebaseio.com",
+    "project_id": "samplepush-543ad",
+    "storage_bucket": "samplepush-543ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092680107276:android:4bfd3e917a5205e9",
+        "android_client_info": {
+          "package_name": "com.orgname.MDBase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092680107276-84vpkdfu87vp2qihfp3gu7oqoj16tt5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwEwX6MgrpGoLpIZmrn6YZEGAihAFtoxs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "58dp"
+        "value": "20dp"
     },
     "_margin_": [
         6,
@@ -26,7 +26,7 @@
     "_text_": "home form",
     "_top_": {
         "type": "string",
-        "value": "443dp"
+        "value": "167dp"
     },
     "_width_": {
         "type": "string",
@@ -38,13 +38,13 @@
     "displaytext": true,
     "focusskin": "sc936d64a2934eb08cb626bea51c9f11",
     "id": "btn",
-    "ide_onClick": "AS_Button_d96415dc43904b2eb7b6268f9d61b094",
+    "ide_onClick": "AS_Button_ee196f39e7a4464da078538873535f90",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "de4515d2f59847a9b655ee8cdf8b8268",
     "name": "kony.ui.Button",
-    "parent": "Form1",
+    "parent": "FlexContainer",
     "pf": "Form1",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
