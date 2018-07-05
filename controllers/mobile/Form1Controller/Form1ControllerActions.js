@@ -32,8 +32,6 @@ define({
     /** onClick defined for btnone **/
     AS_Button_c45384d0c10c4bdd8d6271cabcb0fc72: function AS_Button_c45384d0c10c4bdd8d6271cabcb0fc72(eventobject) {
         var self = this;
-        var ntf = new kony.mvc.Navigation("Form2");
-        ntf.navigate();
     },
     /** onClick defined for Buttonpush **/
     AS_Button_bac147c0b70946a1822f496ac470871c: function AS_Button_bac147c0b70946a1822f496ac470871c(eventobject) {
