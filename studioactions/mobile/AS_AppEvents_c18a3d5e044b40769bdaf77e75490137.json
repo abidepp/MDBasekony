@@ -1,0 +1,22 @@
+{
+    "AS_AppEvents_c18a3d5e044b40769bdaf77e75490137": {
+        "id": "AS_AppEvents_c18a3d5e044b40769bdaf77e75490137",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___gc11a42035eb421c83e464c8bdbc2f27",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "registerPhone",
+            "display": "registerPhone",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

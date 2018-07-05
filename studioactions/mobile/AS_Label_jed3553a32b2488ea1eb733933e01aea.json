@@ -1,0 +1,24 @@
+{
+    "AS_Label_jed3553a32b2488ea1eb733933e01aea": {
+        "id": "AS_Label_jed3553a32b2488ea1eb733933e01aea",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "Form2",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d04815917ee740aca15d12c6219f3005"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

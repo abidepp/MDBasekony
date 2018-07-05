@@ -1,0 +1,17 @@
+{
+    "AS_Button_f14d417443a4444eaeace0f7b1af3ccd": {
+        "id": "AS_Button_f14d417443a4444eaeace0f7b1af3ccd",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_jae8e3b9f6f146d2a0398e3bf1e9cb9c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if(boolConnectionToMF)\n  {\n    this.view.errorMessage.isVisible = true;\n    this.view.errorMessage.lblMessageText = \"connected to mobile fabric\";\n  }",
+            "callbackType": null
+        }]
+    }
+}
